@@ -1,4 +1,4 @@
-# ISM6251 Data Science Programming
+# Data Science Programming
 ## My projects in Spring ISM6251 Data Science Programming 
 
 ## Skills : Python(Machine learning techniques, superwised learning, unsuperwised learning, Predictions and Data analysis)
